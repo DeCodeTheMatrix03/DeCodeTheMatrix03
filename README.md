@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joel Nunez</h1>
 <h3 align="center">Software Engineer at 100Devs | HTML | CSS | JavaScript | Node.Js | React | MongoDB</h3>
 
-- 🔭 currently working on FullStack Workout Tracker
+- 🔭 currently working on FullStack Workout Tracker 
+
+- 🔭 currently learning React
 
 - 🔭 current projects [Nasa Picture of The Day Search](https://nasapictureofday.netlify.app)
 
