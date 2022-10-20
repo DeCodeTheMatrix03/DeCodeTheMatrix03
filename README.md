@@ -39,27 +39,25 @@
 </a>
 </p>
 <p><strong>HTML, CSS, BigCartel, etc.</strong> — An online bookstore for a local author to help increase their internet presence. Fully responsive website, that utlizes HTML and CSS and BigCartel to help with payment processing!</p>
-  <!--
+ 
 </div>
 </td>
 <td width="50%">
-<h3 align="center" color="white">iMovie Reviews</h2>
+<h3 align="center" color="white">Portfolio Site</h2>
 <div align="center" >  
-<a href='https://imoviereviews.netlify.app'>
-<img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/imovie.gif?raw=true" alt="" height="322px" width="100%" />
+<a href='https://nunezdesignz.netlify.app' target = "_blank">
+<!-- Add Gif of Portfolio site -->
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/ssaryonjr/iMovie-Reviews" target="_blank">
-<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-</a>  
-<a href="https://imoviereviews.netlify.app/" target="_blank">
+<a href='https://nunezdesignz.netlify.app' target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
 </a>
 </p>
-<p><strong>JavaScript, Swiper.js, OMDb RESTful API</strong> — Dynamically rendered data from the OMDb API on the page using JavaScript and integrated it with swiper.js. Click the search icon in the navigation and look up your favorite movie!</p>
+<p><strong>HTML, CSS, Mobile First Design</strong> — Learn more about me by checking out my fully responsive portfolio page! This static website was made using HTML and CSS </p>
 </div>
+   <!--
 <tr>
 <td width="50%">
 <h3 align="center" color="white">T&K Nigerian Restaurant</h2>
