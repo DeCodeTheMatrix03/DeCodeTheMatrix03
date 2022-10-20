@@ -26,8 +26,9 @@
 <td width="50%">
 <h3 align="center" color="white">Online BookStore</h2>
 <div align="center" >  
-<a href='https://chitchat-messenger.herokuapp.com/'>
-<img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/chitchat.gif?raw=true" alt="Messenger App" height="322px" width="100%" />
+<a href='https://lovefound.bigcartel.com'>
+
+  <!--Add a gif with Argi's website on it -->
 </a>
 <br>
 <br>
