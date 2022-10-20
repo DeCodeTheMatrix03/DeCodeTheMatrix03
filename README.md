@@ -26,7 +26,7 @@
 <td width="50%">
 <h3 align="center" color="white">Online BookStore</h2>
 <div align="center" >  
-<a href='https://lovefound.bigcartel.com'>
+<a href='https://lovefound.bigcartel.com' target="_blank">
 
   <!--Add a gif with Argi's website on it -->
 </a>
