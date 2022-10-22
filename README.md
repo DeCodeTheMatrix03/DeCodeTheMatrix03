@@ -49,12 +49,12 @@
 <td width="50%">
 <h3 align="center" color="white">Portfolio Site</h2>
 <div align="center" >  
-<a href='https://nunezdesignz.netlify.app' target = "_blank">
+<br>
+<br>
+ <a href='https://nunezdesignz.netlify.app' target = "_blank">
 <!-- Add Gif of Portfolio site -->
 <img src="https://github.com/DeCodeTheMatrix03/DeCodeTheMatrix03/blob/main/ezgif.com-gif-maker-2.gif" alt="Portfolio Website" height="322px" width="100%" />
 </a>
-<br>
-<br>
 <p>
 <a href='https://nunezdesignz.netlify.app' target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
