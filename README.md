@@ -28,15 +28,11 @@
 <td width="50%">
 <h3 align="center" color="white">Online BookStore</h2>
 <div align="center" >  
+<br>
+<br>
 <a href='https://lovefound.bigcartel.com' target="_blank">
-
-  <!--Add a gif with Argi's website on it -->
-
-<br>
-<br>
 <p>
 <img src="https://github.com/DeCodeTheMatrix03/DeCodeTheMatrix03/blob/main/ezgif.com-gif-maker.gif" alt="Bookstore Website" height="322px" width="100%" />
-
 </a>
 <a href="https://lovefound.bigcartel.com" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
