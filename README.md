@@ -31,13 +31,13 @@
 <a href='https://lovefound.bigcartel.com' target="_blank">
 
   <!--Add a gif with Argi's website on it -->
-</a>
+
 <br>
 <br>
 <p>
 <img src="https://github.com/DeCodeTheMatrix03/DeCodeTheMatrix03/blob/main/ezgif.com-gif-maker.gif" alt="Bookstore Website" height="322px" width="100%" />
 
- 
+</a>
 <a href="https://lovefound.bigcartel.com" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
 </a>
@@ -51,6 +51,7 @@
 <div align="center" >  
 <a href='https://nunezdesignz.netlify.app' target = "_blank">
 <!-- Add Gif of Portfolio site -->
+<img src="https://github.com/DeCodeTheMatrix03/DeCodeTheMatrix03/blob/main/ezgif.com-gif-maker-2.gif" alt="Portfolio Website" height="322px" width="100%" />
 </a>
 <br>
 <br>
