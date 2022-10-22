@@ -24,7 +24,6 @@
 <table>
 <tr>
 <a href='https://lovefound.bigcartel.com'>
-<img src="https://github.com/DeCodeTheMatrix03/DeCodeTheMatrix03/blob/main/ezgif.com-gif-maker.gif" alt="Bookstore Website" height="322px" width="100%" />
 </a>
 <td width="50%">
 <h3 align="center" color="white">Online BookStore</h2>
@@ -36,6 +35,7 @@
 <br>
 <br>
 <p>
+<img src="https://github.com/DeCodeTheMatrix03/DeCodeTheMatrix03/blob/main/ezgif.com-gif-maker.gif" alt="Bookstore Website" height="322px" width="100%" />
 
  
 <a href="https://lovefound.bigcartel.com" target="_blank">
