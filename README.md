@@ -22,7 +22,7 @@
 <h2 align="center">Highlighted Projects </h2>
 <div align="center">
 <table>
-<td width="100%">
+<td width="50%">
 <h3 align="center" color="white">Workout Tracker</h2>
 <div align="center" >  
 <br>
