@@ -35,6 +35,23 @@
 </a>  
 <p><strong>Ejs, BootStrap, Node.js, Express and MongoDB.</strong> A FullStack Web Application that utlizes EJS as the templating language for the front end. The backend is compirsed of Node.js, MongoDB, Express, Passport.js (authentication) and other npm modules such as cloudinary for image storage, multer for mage upload and many more. Utilizing MVC architecture to ensure this application was not only performing well but also being able to debug and add features.</p>
    
+      <tr>
+<td width="50%">
+<h3 align="center" color="white">React Project Coming Soon!</h2>
+<div align="center">  
+     <!--
+<a href='https://github.com/DeCodeTheMatrix03/Workout-Tracker'>
+<img src="https://github.com/DeCodeTheMatrix03/Workout-Tracker/blob/main/ezgif.com-gif-maker%20(1).gif"alt="Workout Website" height="322px" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/DeCodeTheMatrix03/Workout-Tracker" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<p><strong>Ejs, BootStrap, Node.js, Express and MongoDB.</strong> A FullStack Web Application that utlizes EJS as the templating language for the front end. The backend is compirsed of Node.js, MongoDB, Express, Passport.js (authentication) and other npm modules such as cloudinary for image storage, multer for mage upload and many more. Utilizing MVC architecture to ensure this application was not only performing well but also being able to debug and add features.</p>
+   
+     -->
 <tr>
 <a href='https://lovefound.bigcartel.com'>
 </a>
