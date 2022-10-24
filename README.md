@@ -22,16 +22,14 @@
 <h2 align="center">Highlighted Projects </h2>
 <div align="center">
 <table>
+     <tr>
 <td width="50%">
 <h3 align="center" color="white">Workout Tracker</h2>
-<div align="center" >  
-<br>
-<br>
-<a href='https://lovefound.bigcartel.com' target="_blank">
-<p>
-<img width="1440" alt="Screen Shot 2022-10-24 at 3 56 49 PM" src="https://github.com/DeCodeTheMatrix03/Workout-Tracker/blob/main/ezgif.com-gif-maker%20(1).gif"
-     alt="Screenshot of the homepage">
+<div align="center">  
+<a href='https://github.com/DeCodeTheMatrix03/Workout-Tracker'>
+<img src="https://github.com/DeCodeTheMatrix03/Workout-Tracker/blob/main/ezgif.com-gif-maker%20(1).gif"alt="Workout Website" height="322px" width="100%" />
 </a>
+    
 <a href="https://lovefound.bigcartel.com" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
 </a>
