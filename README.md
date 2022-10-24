@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joel Nunez</h1>
 <h3 align="center">Software Engineer at 100Devs  JavaScript | Node.Js | React | MongoDB </h3>
 
-- 🔭 currently working on FullStack Workout Tracker 
-
 - 🔭 currently learning React
 
-- 🔭 current projects [Nasa Picture of The Day Search](https://nasapictureofday.netlify.app)
+- 🔭 current projects [Workout Tracker](https://github.com/DeCodeTheMatrix03/Workout-Tracker)
 
 - 👨‍💻 All of my projects are available at [https://nunezdesignz.netlify.app](https://nunezdesignz.netlify.app)
 
@@ -29,7 +27,14 @@
 <a href='https://github.com/DeCodeTheMatrix03/Workout-Tracker'>
 <img src="https://github.com/DeCodeTheMatrix03/Workout-Tracker/blob/main/ezgif.com-gif-maker%20(1).gif"alt="Workout Website" height="322px" width="100%" />
 </a>
-    
+<br>
+<br>
+<p>
+<a href="https://github.com/DeCodeTheMatrix03/Workout-Tracker" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<p><strong>HTML, CSS, BigCartel, etc.</strong> — An online bookstore for a local author to help increase their internet presence. Fully responsive website, that utlizes HTML and CSS and BigCartel to help with payment processing!</p>
+     
 <a href="https://lovefound.bigcartel.com" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
 </a>
@@ -61,7 +66,7 @@
 <br>
 <br>
  <a href='https://nunezdesignz.netlify.app' target = "_blank">
-<!-- Add Gif of Portfolio site -->
+
 <img src="https://github.com/DeCodeTheMatrix03/DeCodeTheMatrix03/blob/main/ezgif.com-gif-maker-2.gif" alt="Portfolio Website" height="322px" width="100%" />
 </a>
 <p>
