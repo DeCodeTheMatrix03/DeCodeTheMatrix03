@@ -34,12 +34,7 @@
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
 <p><strong>HTML, CSS, BigCartel, etc.</strong> — An online bookstore for a local author to help increase their internet presence. Fully responsive website, that utlizes HTML and CSS and BigCartel to help with payment processing!</p>
-     
-<a href="https://lovefound.bigcartel.com" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
-</a>
-</p>
-<p><strong>HTML, CSS, BigCartel, etc.</strong> — An online bookstore for a local author to help increase their internet presence. Fully responsive website, that utlizes HTML and CSS and BigCartel to help with payment processing!</p>
+   
 <tr>
 <a href='https://lovefound.bigcartel.com'>
 </a>
