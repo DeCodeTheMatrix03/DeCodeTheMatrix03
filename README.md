@@ -22,6 +22,23 @@
 <h2 align="center">Highlighted Projects </h2>
 <div align="center">
 <table>
+https://github.com/DeCodeTheMatrix03/Workout-Tracker/blob/main/ezgif.com-gif-maker%20(1).gif
+<a href='https://lovefound.bigcartel.com'>
+</a>
+<td width="50%">
+<h3 align="center" color="white">Online BookStore</h2>
+<div align="center" >  
+<br>
+<br>
+<a href='https://lovefound.bigcartel.com' target="_blank">
+<p>
+<img src="https://github.com/DeCodeTheMatrix03/DeCodeTheMatrix03/blob/main/ezgif.com-gif-maker.gif" alt="Bookstore Website" height="322px" width="100%" />
+</a>
+<a href="https://lovefound.bigcartel.com" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
+</a>
+</p>
+<p><strong>HTML, CSS, BigCartel, etc.</strong> — An online bookstore for a local author to help increase their internet presence. Fully responsive website, that utlizes HTML and CSS and BigCartel to help with payment processing!</p>
 <tr>
 <a href='https://lovefound.bigcartel.com'>
 </a>
