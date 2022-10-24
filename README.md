@@ -33,7 +33,7 @@
 <a href="https://github.com/DeCodeTheMatrix03/Workout-Tracker" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
-<p><strong>HTML, CSS, BigCartel, etc.</strong> — An online bookstore for a local author to help increase their internet presence. Fully responsive website, that utlizes HTML and CSS and BigCartel to help with payment processing!</p>
+<p><strong>Ejs, BootStrap, Node.js, Express and MongoDB.</strong> A FullStack Web Application that utlizes EJS as the templating language for the front end. The backend is compirsed of Node.js, MongoDB, Express, Passport.js (authentication) and other npm modules such as cloudinary for image storage, multer for mage upload and many more. Utilizing MVC architecture to ensure this application was not only performing well but also being able to debug and add features.</p>
    
 <tr>
 <a href='https://lovefound.bigcartel.com'>
