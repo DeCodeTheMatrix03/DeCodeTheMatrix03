@@ -29,8 +29,8 @@
 <br>
 <a href='https://lovefound.bigcartel.com' target="_blank">
 <p>
-<img src="https://github.com/DeCodeTheMatrix03/Workout-Tracker/blob/main/ezgif.com-gif-maker%20(1).gif
-" alt="100hrs Project" height="322px" width="100%" />
+<img width="1440" alt="Screen Shot 2022-10-24 at 3 56 49 PM" src="https://github.com/DeCodeTheMatrix03/Workout-Tracker/blob/main/ezgif.com-gif-maker%20(1).gif"
+     alt="Screenshot of the homepage">
 </a>
 <a href="https://lovefound.bigcartel.com" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
