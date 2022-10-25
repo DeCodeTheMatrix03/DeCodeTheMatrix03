@@ -35,7 +35,7 @@
 </a>  
 <p><strong>Ejs, BootStrap, Node.js, Express and MongoDB.</strong> A FullStack Web Application that utlizes EJS as the templating language for the front end. The backend is compirsed of Node.js, MongoDB, Express, Passport.js (authentication) and other npm modules such as cloudinary for image storage, multer for mage upload and many more. Utilizing MVC architecture to ensure this application was not only performing well but also being able to debug and add features.</p>
    
-      <tr>
+
 <td width="50%">
 <h3 align="center" color="white">React Project Coming Soon!</h2>
 <div align="center">  
