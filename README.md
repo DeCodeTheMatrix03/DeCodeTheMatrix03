@@ -22,22 +22,19 @@
 <table>
      <tr>
 <td width="50%">
-<h3 align="center" color="white">Workout Tracker</h2>
+<h3 align="center" color="white">Wellness</h2>
 <div align="center">  
-<a href= 'https://github.com/DeCodeTheMatrix03/Find-Your-Routine'>
+<a href= 'https://github.com/DeCodeTheMatrix03/Wellness-Journal'>
 <img src= 'https://github.com/DeCodeTheMatrix03/Wellness-Journal/blob/main/ezgif.com-gif-maker%20(2).gif' alt="Workout Website" height="322px" width="100%" />
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/DeCodeTheMatrix03/Find-Your-Routine" target="_blank">
+<a href="https://github.com/DeCodeTheMatrix03/Wellness-Journal" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://workout-explorer.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
-</a>
 <p><strong>
-This is an online web application that allows you explore exercises for specific muscle groups. I built this application with the thought of helping someone fulfill their fitness goals! A React Web Application that utlizes RapidAPI to pull workouts from a Workout API. The frontend is comprised of React.js and MaterialUI for styling and composing.
+A FullStack Web Application that utlizes React as the templating language for the front end. The backend is compirsed of Node.js, MongoDB, Express, Bcrypt.js (password hashing) and other npm modules. Utilizing MVC architecture to ensure this application was not only performing well but also being able to debug and add features. This application allows you to create an account to keep track of your fitness goals. You are able to track your food, sleep quality, and workout sessions. Your information is safe, only user authenticated requests are able to access this information. 
 </p>
    
 
