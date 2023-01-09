@@ -86,14 +86,14 @@ This is an online web application that allows you explore exercises for specific
 <br>
  <a href='https://nunezdesignz.netlify.app' target = "_blank">
 
-<img src="https://github.com/DeCodeTheMatrix03/DeCodeTheMatrix03/blob/main/ezgif.com-gif-maker-2.gif" alt="Portfolio Website" height="322px" width="100%" />
+<img src='https://github.com/DeCodeTheMatrix03/Portfolio-Site/blob/main/ezgif.com-gif-maker%20(4).gif' alt="Portfolio Website" height="322px" width="100%" />
 </a>
 <p>
 <a href='https://nunezdesignz.netlify.app' target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
 </a>
 </p>
-<p><strong>HTML, CSS, Mobile First Design</strong> — Learn more about me by checking out my fully responsive portfolio page! This static website was made using HTML and CSS </p>
+<p><strong>A simple fully responsive portfolio website to show off my recent projects. My portfolio evolves with me as I learn new tools and languages dont be surprised if it looks completely different next time you see it :) </p>
 </div>
    <!--
 <tr>
