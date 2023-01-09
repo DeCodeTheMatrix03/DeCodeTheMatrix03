@@ -43,7 +43,7 @@ This is an online web application that allows you explore exercises for specific
 
 
 <td width="50%">
-<h3 align="center" color="white">Workout Tracker</h2>
+<h3 align="center" color="white">Find Your Routine</h2>
 <div align="center">  
 <a href= 'https://github.com/DeCodeTheMatrix03/Find-Your-Routine'>
 <img src="https://github.com/DeCodeTheMatrix03/Workout-Explorer/blob/main/ezgif.com-gif-maker%20(3).gif" alt="Workout Website" height="322px" width="100%" />
