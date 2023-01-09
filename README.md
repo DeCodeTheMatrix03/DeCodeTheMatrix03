@@ -92,6 +92,9 @@ This is an online web application that allows you explore exercises for specific
 <a href='https://nunezdesignz.netlify.app' target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
 </a>
+<a href="https://github.com/DeCodeTheMatrix03/Portfolio-Site" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>
 </p>
 <p><strong>A simple fully responsive portfolio website to show off my recent projects. My portfolio evolves with me as I learn new tools and languages dont be surprised if it looks completely different next time you see it :) </p>
 </div>
