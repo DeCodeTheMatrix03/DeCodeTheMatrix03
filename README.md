@@ -25,7 +25,7 @@
 <h3 align="center" color="white">Workout Tracker</h2>
 <div align="center">  
 <a href= 'https://github.com/DeCodeTheMatrix03/Find-Your-Routine'>
-<img src="https://github.com/DeCodeTheMatrix03/Workout-Explorer/blob/main/ezgif.com-gif-maker%20(3).gif" alt="Workout Website" height="322px" width="100%" />
+<img "https://github.com/DeCodeTheMatrix03/Wellness-Journal/blob/main/ezgif.com-gif-maker%20(2).gif" alt="Workout Website" height="322px" width="100%" />
 </a>
 <br>
 <br>
