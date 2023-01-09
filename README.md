@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joel Nunez</h1>
 <h3 align="center">Software Engineer at 100Devs  JavaScript | Node.Js | React | MongoDB </h3>
 
-- 🔭 currently learning React
+- 🔭 refining my React skills through building projects
 
-- 🔭 current projects [Workout Tracker](https://github.com/DeCodeTheMatrix03/Workout-Tracker)
+- 🔭 current projects [Workout Tracker]('https://github.com/DeCodeTheMatrix03/Find-Your-Routine')
 
 - 👨‍💻 All of my projects are available at [https://nunezdesignz.netlify.app](https://nunezdesignz.netlify.app)
 
@@ -41,9 +41,25 @@ This is an online web application that allows you explore exercises for specific
 </p>
    
 
+     <tr>
 <td width="50%">
-<h3 align="center" color="white">React Project Coming Soon!</h2>
+<h3 align="center" color="white">Workout Tracker</h2>
 <div align="center">  
+<a href= 'https://github.com/DeCodeTheMatrix03/Find-Your-Routine'>
+<img src="https://github.com/DeCodeTheMatrix03/Workout-Explorer/blob/main/ezgif.com-gif-maker%20(3).gif" alt="Workout Website" height="322px" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/DeCodeTheMatrix03/Find-Your-Routine" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://workout-explorer.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
+</a>
+<p><strong>
+This is an online web application that allows you explore exercises for specific muscle groups. I built this application with the thought of helping someone fulfill their fitness goals! A React Web Application that utlizes RapidAPI to pull workouts from a Workout API. The frontend is comprised of React.js and MaterialUI for styling and composing.
+</p>
 
 
 <tr>
