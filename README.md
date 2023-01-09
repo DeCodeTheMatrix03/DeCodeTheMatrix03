@@ -34,8 +34,8 @@
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>
 <p><strong>
-A FullStack Web Application that utlizes React as the templating language for the front end. The backend is compirsed of Node.js, MongoDB, Express, Bcrypt.js (password hashing) and other npm modules. Utilizing MVC architecture to ensure this application was not only performing well but also being able to debug and add features. This application allows you to create an account to keep track of your fitness goals. You are able to track your food, sleep quality, and workout sessions. Your information is safe, only user authenticated requests are able to access this information. 
-</p>
+A FullStack Web Application that utlizes React as the templating language for the front end. The backend is compirsed of Node.js, MongoDB, Express, Bcrypt.js (password hashing) and other npm modules. Utilizing MVC architecture to ensure this application was not only performing well but also being able to debug and add features. 
+     </p>
    
 
 
