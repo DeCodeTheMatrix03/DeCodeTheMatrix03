@@ -24,16 +24,21 @@
 <td width="50%">
 <h3 align="center" color="white">Workout Tracker</h2>
 <div align="center">  
-<a href='https://github.com/DeCodeTheMatrix03/Workout-Tracker'>
-<img src="https://github.com/DeCodeTheMatrix03/Workout-Tracker/blob/main/ezgif.com-gif-maker%20(1).gif"alt="Workout Website" height="322px" width="100%" />
+<a href= 'https://github.com/DeCodeTheMatrix03/Find-Your-Routine'>
+<img src="https://github.com/DeCodeTheMatrix03/Workout-Explorer/blob/main/ezgif.com-gif-maker%20(3).gif" alt="Workout Website" height="322px" width="100%" />
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/DeCodeTheMatrix03/Workout-Tracker" target="_blank">
+<a href="https://github.com/DeCodeTheMatrix03/Find-Your-Routine" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-</a>  
-<p><strong>Ejs, BootStrap, Node.js, Express and MongoDB.</strong> A FullStack Web Application that utlizes EJS as the templating language for the front end. The backend is compirsed of Node.js, MongoDB, Express, Passport.js (authentication) and other npm modules such as cloudinary for image storage, multer for mage upload and many more. Utilizing MVC architecture to ensure this application was not only performing well but also being able to debug and add features.</p>
+</a>
+<a href="https://workout-explorer.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
+</a>
+<p><strong>
+This is an online web application that allows you explore exercises for specific muscle groups. I built this application with the thought of helping someone fulfill their fitness goals! A React Web Application that utlizes RapidAPI to pull workouts from a Workout API. The frontend is comprised of React.js and MaterialUI for styling and composing.
+</p>
    
 
 <td width="50%">
