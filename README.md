@@ -41,7 +41,7 @@ This is an online web application that allows you explore exercises for specific
 </p>
    
 
-     <tr>
+
 <td width="50%">
 <h3 align="center" color="white">Workout Tracker</h2>
 <div align="center">  
