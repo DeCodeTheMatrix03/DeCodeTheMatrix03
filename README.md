@@ -3,7 +3,7 @@
 
 - 🔭 refining my Frontend and Backend skills through building projects
 
-- 🔭 current projects [Wellness]('https://github.com/DeCodeTheMatrix03/Wellness-Journal')
+- 🔭 current projects <a href= 'https://github.com/DeCodeTheMatrix03/Wellness-Journal'> Wellness</a>
 
 - 👨‍💻 All of my projects are available at [https://joel-nunez.netlify.app/](https://joel-nunez.netlify.app/)
 
