@@ -84,15 +84,15 @@ This is an online web application that allows you explore exercises for specific
 <div align="center" >  
 <br>
 <br>
- <a href='https://nunezdesignz.netlify.app' target = "_blank">
+ <a href='https://joel-nunez.netlify.app/' target = "_blank">
 
-<img src='https://github.com/DeCodeTheMatrix03/Portfolio-Site/blob/main/ezgif.com-gif-maker%20(4).gif' alt="Portfolio Website" height="322px" width="100%" />
+<img src='https://github.com/DeCodeTheMatrix03/Portfolio/blob/main/ezgif.com-gif-maker%20(5).gif' alt="Portfolio Website" height="322px" width="100%" />
 </a>
 <p>
-<a href='https://nunezdesignz.netlify.app' target="_blank">
+<a href='https://joel-nunez.netlify.app/' target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
 </a>
-<a href="https://github.com/DeCodeTheMatrix03/Portfolio-Site" target="_blank">
+<a href="https://github.com/DeCodeTheMatrix03/Portfolio" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>
 </p>
