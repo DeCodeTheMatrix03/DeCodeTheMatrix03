@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joel Nunez</h1>
 <h3 align="center">Software Engineer at 100Devs  JavaScript | Node.Js | React | MongoDB </h3>
 
-- 🔭 refining my React skills through building projects
+- 🔭 refining my Frontend and Backend skills through building projects
 
-- 🔭 current projects [Workout Tracker]('https://github.com/DeCodeTheMatrix03/Find-Your-Routine')
+- 🔭 current projects [Wellness]('https://github.com/DeCodeTheMatrix03/Wellness-Journal')
 
-- 👨‍💻 All of my projects are available at [https://nunezdesignz.netlify.app](https://nunezdesignz.netlify.app)
+- 👨‍💻 All of my projects are available at [https://joel-nunez.netlify.app/](https://joel-nunez.netlify.app/)
 
 - 📫 How to reach me **joelfnunez@gmail.com**
 
